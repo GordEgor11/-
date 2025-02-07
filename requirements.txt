@@ -1,0 +1,5 @@
+asyncpg~=0.30.0
+aiogram~=3.17.0
+pydantic~=2.10.6
+openai~=1.61.1
+aiosqlite~=0.21.0
