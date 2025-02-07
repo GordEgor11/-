@@ -167,7 +167,7 @@ async def student_ranking(message: Message):
 
 @dp.message(F.text == "❓ Помощь")
 async def add_vacancy(message: Message):
-    await message.answer(" Если у вас есть какие-то вопросы, напишите в @techsupport ")
+    await message.answer("Если у вас есть какие-то вопросы, напишите в @techsupport ")
 
 
 async def main():
